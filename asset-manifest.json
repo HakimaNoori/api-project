@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/api-project/static/css/main.93782b90.css",
+    "main.js": "/api-project/static/js/main.112ad42d.js",
+    "static/media/Lalezar.ttf": "/api-project/static/media/Lalezar.241ca811c53de4ed36a4.ttf",
+    "static/media/Yekan.ttf": "/api-project/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
+    "index.html": "/api-project/index.html",
+    "main.93782b90.css.map": "/api-project/static/css/main.93782b90.css.map",
+    "main.112ad42d.js.map": "/api-project/static/js/main.112ad42d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93782b90.css",
+    "static/js/main.112ad42d.js"
+  ]
+}
